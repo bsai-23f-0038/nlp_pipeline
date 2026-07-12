@@ -1,0 +1,9 @@
+pypdf
+nltk
+gensim
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+reportlab
